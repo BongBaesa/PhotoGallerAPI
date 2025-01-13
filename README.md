@@ -1,7 +1,5 @@
 # 🖼️ Photo Gallery
 
-#
-
 A simple **Photo Gallery** that fetches free photos and videos from **Pexels** using their open-source API.
 
 # 
