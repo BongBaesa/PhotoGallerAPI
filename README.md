@@ -4,11 +4,13 @@
 
 A simple **Photo Gallery** that fetches free photos and videos from **Pexels** using their open-source API.
 
-#
+# 
 
 - Browse through stunning photos.
 
 - Search for specific photos you liked!
+
+# 
 
 ## 🛠 Built With:
 
